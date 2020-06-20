@@ -25,7 +25,7 @@
 	to check the status of a folder and its files, e.g. to verify that a folder has been initialized, and which files have been added and/or changed since last commit 
 
 # 9 - What does the command 'git add .' do?
-	adds any files in a folder to the git tracker that have not already been added
+	adds any files (or changes to existing files) in a folder to the git tracker that have not already been added
 
 # 10 - What is the command to push your committed changes to your repo on GitHub? 
 	git push -u [destination repository name] [current branch]
